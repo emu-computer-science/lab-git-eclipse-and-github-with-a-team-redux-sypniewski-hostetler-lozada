@@ -9,6 +9,7 @@ public class Driver {
 		Goofy.goof();
 		Hungry.starving();
 		JoesClass.print();
+		Goofy.goof2();
 	}
 
 }
