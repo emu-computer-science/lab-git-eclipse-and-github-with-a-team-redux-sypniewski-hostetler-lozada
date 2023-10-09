@@ -5,7 +5,12 @@ public class Goofy {
 		System.out.println("We are feeling like lil' sofa spuds. Some real wacky dudes.");
 	}
 	
-	public static void goof2() {
-		System.out.println("Goof 2, electric boogaloo.");
+
+	public static void leFleurs() {
+		System.out.println("Blanche fille aux cheveux roux,\r\n"
+				+ "Dont la robe par ses trous\r\n"
+				+ "Laisse voir la pauvreté\r\n"
+				+ "Et la beauté");
+
 	}
 }
