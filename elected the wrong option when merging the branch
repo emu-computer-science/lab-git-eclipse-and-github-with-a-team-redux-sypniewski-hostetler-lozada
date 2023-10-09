@@ -1,0 +1,61 @@
+[33mcommit e6ad1bd49886c448b25e85c287fd1e809bd6bf06[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 834c20d cb18752
+Author: TheShakeSnake <145395119+TheShakeSnake@users.noreply.github.com>
+Date:   Mon Oct 9 19:08:24 2023 -0400
+
+    Merge branch 'Tbranch'
+    Merged Tbranch
+
+[33mcommit cb18752b0a9b1521692e84836ed0f3d207b73f3d[m[33m ([m[1;31morigin/Tbranch[m[33m, [m[1;32mTbranch[m[33m)[m
+Author: TheShakeSnake <145395119+TheShakeSnake@users.noreply.github.com>
+Date:   Mon Oct 9 19:02:08 2023 -0400
+
+    staged and recommited
+
+[33mcommit 834c20dc7fea3e6e430367d53976ec4158db9ec3[m[33m ([m[1;31morigin/joe[m[33m)[m
+Author: jjsyp <jsypniew@emich.edu>
+Date:   Mon Oct 9 19:01:01 2023 -0400
+
+    made my own function!
+
+[33mcommit aeabb2be94f437279ba56af12aa75688543f93a3[m
+Author: RenXiongmao7 <133740955+RenXiongmao7@users.noreply.github.com>
+Date:   Mon Oct 9 18:50:15 2023 -0400
+
+    Lozada edited driver and Goofy
+
+[33mcommit 6f0c979888cba8b96dee94d8080644293af0b686[m
+Author: RenXiongmao7 <133740955+RenXiongmao7@users.noreply.github.com>
+Date:   Mon Oct 9 18:48:03 2023 -0400
+
+    Lozada created Goofy.java
+
+[33mcommit eda82fcfd5afcb1cfd1079748f561b3d664be010[m
+Author: TheShakeSnake <145395119+TheShakeSnake@users.noreply.github.com>
+Date:   Mon Oct 9 18:46:53 2023 -0400
+
+    added hungry
+
+[33mcommit 9b5185d00357fa56ea77a464d4e4b5b14826a8b2[m
+Author: jjsyp <jsypniew@emich.edu>
+Date:   Mon Oct 9 18:44:57 2023 -0400
+
+    added a sad function
+
+[33mcommit dabfdc072b8f7d7e211d31022941abb9eb36fa57[m
+Author: jjsyp <jsypniew@emich.edu>
+Date:   Mon Oct 9 18:40:51 2023 -0400
+
+    created driver
+
+[33mcommit 8313bc9e66a6a418948983e11512e29f73847b06[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Oct 9 21:48:56 2023 +0000
+
+    add online IDE url
+
+[33mcommit b3d817b985b2e67980edcf5fd9fcca0c8c7f52db[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Oct 9 21:48:54 2023 +0000
+
+    Initial commit
