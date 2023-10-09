@@ -7,6 +7,8 @@ public class Driver {
 		Sad.print();
 		Hungry.hungry();
 		Goofy.goof();
+		
+		JoesClass.print();
 	}
 
 }
